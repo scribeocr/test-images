@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document xmlns="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml" version="1.0" producer="ABBYY FineReader Engine 12" languages="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml">
+<page width="363" height="372" resolution="96">
+<block blockType="Picture" blockName="" l="7" t="34" r="303" b="361"><region><rect l="7" t="34" r="303" b="361"/></region>
+</block>
+<block blockType="Text" blockName="" l="5" t="216" r="37" b="229"><region><rect l="5" t="216" r="37" b="229"/></region>
+<text>
+<par lineSpacing="1260">
+<line baseline="226" l="7" t="217" r="33" b="227"><formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="11">
+<charParams l="7" t="217" r="17" b="227">G</charParams>
+<charParams l="17" t="217" r="25" b="227" suspicious="1">N</charParams>
+<charParams l="25" t="218" r="33" b="227" suspicious="1">D</charParams></formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="5" t="263" r="37" b="276"><region><rect l="5" t="263" r="37" b="276"/></region>
+<text>
+<par lineSpacing="1260">
+<line baseline="273" l="6" t="264" r="33" b="274"><formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="11">
+<charParams l="6" t="264" r="17" b="274">A</charParams>
+<charParams l="17" t="264" r="25" b="274">U</charParams>
+<charParams l="25" t="264" r="33" b="274">X</charParams></formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="11" t="172" r="31" b="185"><region><rect l="11" t="172" r="31" b="185"/></region>
+<text>
+<par lineSpacing="1030">
+<line baseline="182" l="13" t="173" r="28" b="182"><formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="9" bold="1">
+<charParams l="13" t="173" r="21" b="182">A</charParams>
+<charParams l="22" t="173" r="28" b="182">O</charParams></formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="16" t="125" r="34" b="138"><region><rect l="16" t="125" r="34" b="138"/></region>
+<text>
+<par lineSpacing="1130">
+<line baseline="135" l="17" t="126" r="31" b="135"><formatting lang="EnglishUnitedStates" ff="Courier New" fs="10">
+<charParams l="17" t="127" r="26" b="135" suspicious="1">A</charParams>
+<charParams l="28" t="126" r="31" b="135" suspicious="1">l</charParams></formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="58" t="85" r="78" b="104"><region><rect l="58" t="85" r="78" b="104"/></region>
+<text>
+<par lineSpacing="1260">
+<line baseline="101" l="60" t="86" r="75" b="101"><formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="11">
+<charParams l="60" t="86" r="75" b="101" suspicious="1">O</charParams></formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="127" t="189" r="205" b="209"><region><rect l="127" t="189" r="205" b="209"/></region>
+<text>
+<par align="Right" lineSpacing="1950">
+<line baseline="206" l="128" t="190" r="202" b="206"><formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="17" bold="1">
+<charParams l="128" t="190" r="143" b="206">N</charParams>
+<charParams l="145" t="190" r="156" b="206">S</charParams>
+<charParams l="158" t="190" r="167" b="206">2</charParams>
+<charParams l="169" t="190" r="179" b="206">0</charParams>
+<charParams l="181" t="190" r="191" b="206">0</charParams>
+<charParams l="192" t="190" r="202" b="206">9</charParams></formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="286" t="218" r="301" b="231"><region><rect l="286" t="218" r="301" b="231"/></region>
+<text>
+<par align="Right" lineSpacing="980">
+<line baseline="229" l="287" t="220" r="298" b="229"><formatting lang="EnglishUnitedStates" ff="Arial" fs="8.5">
+<charParams l="287" t="220" r="289" b="229" suspicious="1">1</charParams>
+<charParams l="292" t="220" r="298" b="228" suspicious="1">0</charParams></formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="288" t="125" r="302" b="138"><region><rect l="288" t="125" r="302" b="138"/></region>
+<text>
+<par lineSpacing="980">
+<line baseline="135" l="290" t="126" r="300" b="135"><formatting lang="EnglishUnitedStates" ff="Arial" fs="8.5">
+<charParams l="290" t="126" r="292" b="135">1</charParams>
+<charParams l="294" t="126" r="300" b="135">2</charParams></formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="289" t="170" r="301" b="182"><region><rect l="289" t="170" r="301" b="182"/></region>
+<text>
+<par align="Justified" lineSpacing="980">
+<line baseline="180" l="290" t="171" r="298" b="179"><formatting lang="EnglishUnitedStates" ff="Arial" fs="8.5">
+<charParams l="290" t="171" r="291" b="179" suspicious="1">1</charParams>
+<charParams l="296" t="171" r="298" b="179" suspicious="1">1</charParams></formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="140" t="42" r="153" b="62"><region><rect l="140" t="42" r="153" b="62"/></region>
+<text>
+<par align="Center" lineSpacing="525">
+<line baseline="53" l="142" t="44" r="150" b="53"><formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="11">
+<charParams l="142" t="44" r="150" b="53">C</charParams></formatting></line>
+<line baseline="60" l="142" t="53" r="150" b="60"><formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="11">
+<charParams l="142" t="54" r="144" b="60" suspicious="1">0</charParams>
+<charParams l="144" t="53" r="150" b="60" suspicious="1">.</charParams></formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="92" t="42" r="111" b="84"><region><rect l="92" t="42" r="111" b="84"/></region>
+<text>
+<par lineSpacing="450">
+<line baseline="53" l="99" t="43" r="108" b="53"><formatting lang="EnglishUnitedStates" ff="Arial" fs="8.5">
+<charParams l="99" t="43" r="108" b="53" suspicious="1">C</charParams></formatting></line>
+<line baseline="59" l="100" t="53" r="108" b="60"><formatting lang="EnglishUnitedStates" ff="Arial" fs="8.5">
+<charParams l="100" t="53" r="101" b="60" suspicious="1">0</charParams>
+<charParams l="101" t="53" r="108" b="60" suspicious="1">.</charParams></formatting></line></par>
+<par lineSpacing="1260">
+<line baseline="81" l="92" t="69" r="109" b="82"><formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="11">
+<charParams l="92" t="69" r="97" b="82">1</charParams>
+<charParams l="97" t="69" r="109" b="82">6</charParams></formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="185" t="41" r="200" b="84"><region><rect l="185" t="41" r="200" b="84"/></region>
+<text>
+<par align="Center" lineSpacing="1260">
+<line baseline="58" l="189" t="51" r="197" b="58"><formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="11">
+<charParams l="189" t="51" r="197" b="58">—</charParams></formatting></line></par>
+<par align="Center" leftIndent="-100" lineSpacing="1260">
+<line baseline="81" l="185" t="69" r="198" b="82"><formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="11">
+<charParams l="185" t="69" r="190" b="82">1</charParams>
+<charParams l="190" t="69" r="198" b="82">4</charParams></formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="229" t="32" r="249" b="87"><region><rect l="229" t="32" r="249" b="87"/></region>
+<text>
+<par lineSpacing="980">
+<line baseline="40" l="238" t="33" r="246" b="41"><formatting lang="EnglishUnitedStates" ff="Arial" fs="8.5">
+<charParams l="238" t="33" r="240" b="41" suspicious="1">[</charParams>
+<charParams l="240" t="34" r="244" b="41" suspicious="1">x</charParams>
+<charParams l="244" t="33" r="246" b="41" suspicious="1">]</charParams></formatting></line></par>
+<par align="Right" lineSpacing="1260">
+<line baseline="60" l="239" t="52" r="246" b="60"><formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="11">
+<charParams l="239" t="52" r="246" b="60" suspicious="1">&gt;</charParams></formatting></line></par>
+<par align="Right" lineSpacing="1260">
+<line baseline="84" l="229" t="69" r="247" b="85"><formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="11">
+<charParams l="229" t="69" r="237" b="85">1</charParams>
+<charParams l="237" t="69" r="247" b="85">3</charParams></formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="94" t="336" r="252" b="362"><region><rect l="94" t="336" r="252" b="362"/></region>
+<text>
+<par lineSpacing="1260">
+<line baseline="350" l="96" t="337" r="248" b="351"><formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="11">
+<charParams l="96" t="337" r="102" b="351" suspicious="1">S</charParams>
+<charParams l="102" t="338" r="148" b="351" suspicious="1">-</charParams>
+<charParams l="148" t="342" r="238" b="351" suspicious="1">-</charParams>
+<charParams l="238" t="342" r="248" b="351" suspicious="1">z</charParams></formatting></line></par>
+<par align="Center" lineSpacing="1270">
+<line baseline="360" l="95" t="348" r="248" b="362"><formatting lang="EnglishUnitedStates" ff="Courier New" fs="15">
+<charParams l="95" t="348" r="147" b="362" suspicious="1">—</charParams>
+<charParams l="147" t="352" r="148" b="361" suspicious="1">X</charParams>
+<charParams l="148" t="351" r="192" b="361" suspicious="1">&gt;</charParams>
+<charParams l="192" t="351" r="248" b="361" suspicious="1">&gt;</charParams></formatting></line></par>
+</text>
+</block>
+<block blockType="SeparatorsBox" blockName="" l="43" t="70" r="303" b="330"><region><rect l="43" t="70" r="303" b="73"/><rect l="43" t="73" r="303" b="326"/><rect l="43" t="326" r="303" b="330"/></region>
+<separatorsBox>
+<separator type="Black" thickness="3"><start x="43" y="71"/><end x="303" y="71"/>
+</separator>
+<separator type="Black" thickness="3"><start x="43" y="328"/><end x="303" y="328"/>
+</separator>
+<separator type="Black" thickness="3"><start x="45" y="70"/><end x="45" y="330"/>
+</separator>
+<separator type="Black" thickness="2"><start x="301" y="70"/><end x="301" y="330"/>
+</separator>
+</separatorsBox>
+</block>
+<block blockType="Separator" blockName="" l="91" t="92" r="112" b="93"><region><rect l="91" t="92" r="112" b="93"/></region>
+<separator type="Black" thickness="1"><start x="91" y="92"/><end x="112" y="92"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="43" t="257" r="66" b="259"><region><rect l="43" t="257" r="66" b="259"/></region>
+<separator type="Black" thickness="2"><start x="43" y="258"/><end x="66" y="258"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="43" t="279" r="66" b="281"><region><rect l="43" t="279" r="66" b="281"/></region>
+<separator type="Black" thickness="2"><start x="43" y="280"/><end x="66" y="280"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="232" t="307" r="253" b="308"><region><rect l="232" t="307" r="253" b="308"/></region>
+<separator type="Black" thickness="1"><start x="232" y="307"/><end x="253" y="307"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="0" t="0" r="1" b="372"><region><rect l="0" t="0" r="1" b="372"/></region>
+<separator type="Black" thickness="1"><start x="0" y="0"/><end x="0" y="372"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="65" t="258" r="66" b="280"><region><rect l="65" t="258" r="66" b="280"/></region>
+<separator type="Black" thickness="1"><start x="65" y="258"/><end x="65" y="280"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="91" t="70" r="92" b="93"><region><rect l="91" t="70" r="92" b="93"/></region>
+<separator type="Black" thickness="1"><start x="91" y="70"/><end x="91" y="93"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="112" t="70" r="113" b="92"><region><rect l="112" t="70" r="113" b="92"/></region>
+<separator type="Black" thickness="1"><start x="112" y="70"/><end x="112" y="92"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="230" t="308" r="232" b="330"><region><rect l="230" t="308" r="232" b="330"/></region>
+<separator type="Black" thickness="2"><start x="231" y="308"/><end x="231" y="330"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="252" t="307" r="254" b="330"><region><rect l="252" t="307" r="254" b="330"/></region>
+<separator type="Black" thickness="2"><start x="253" y="307"/><end x="253" y="330"/>
+</separator>
+</block>
+<block blockType="Picture" blockName="" l="89" t="116" r="255" b="285"><region><rect l="89" t="116" r="255" b="285"/></region>
+</block>
+</page>
+</document>
